@@ -19,7 +19,3 @@ tasks.test {
 kotlin {
     jvmToolchain(17)
 }
-
-
-Add ssh key to agent
-ssh-add --apple-use-keychain ~/.ssh/github-primerio
